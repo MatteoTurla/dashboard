@@ -51,7 +51,7 @@ The user can filter the possible service to plot by a text input.
 
 The product page use the same concepts of the services page but using products.
 
-#### Costumers
+#### Costumers
 
 The costumer page show all the costumer of the salon, by clicking over a customer it open a detailed page of the selected costumer.
 
