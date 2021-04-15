@@ -1,7 +1,7 @@
 # shiny-app
 The goal of the project is to develop a dashboard for the management of hair salon, starting from the following SQL schema:
 
-![](/Users/matteoturla/universita/shiny-app/dashboard/github-dashboard/shiny-app/sqlschema.png)
+![](./sqlschema.png)
 
 ### Data Aquisition
 
