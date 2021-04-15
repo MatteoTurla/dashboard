@@ -3,7 +3,7 @@ The goal of the project is to develop a dashboard for the management of hair sal
 
 ![](./sqlschema.png)
 
-### Data Aquisition
+###  Data Aquisition
 
 Customers, Services and Prodcuts contains real data, for privacy reason name and costumers interactions with services and prodcuts are randomly generated using a multicore function to speed up the computation.
 
@@ -19,7 +19,7 @@ m-core computation time:
 
 
 
-### Dashboard Layout
+###  Dashboard Layout
 
 the dashboard is compose of three main pages: 
 
@@ -28,7 +28,7 @@ the dashboard is compose of three main pages:
 * Products
 * Costumers
 
-#### Overview
+####  Overview
 
 The overview page show different type of statistics based on the selected day and frequency.
 
@@ -41,17 +41,17 @@ There are 4 different frequency value:
 
 The bottom part of the page show the most used service/product and the most profitable service/product, this help the menager to take policy decision.
 
-#### Services
+####  Services
 
 The service page show all the possible services that can be done in the salon and make a comparison of income/frequency of the current year with respect to the past year based on the selected service.
 
 The user can filter the possible service to plot by a text input.
 
-#### Products
+####  Products
 
 The product page use the same concepts of the services page but using prodcuts.
 
-#### Costumers
+####  Costumers
 
 The costumer page show all the costumer of the salon, by clicking over a customer it open a detailed page of the selected costumer.
 
